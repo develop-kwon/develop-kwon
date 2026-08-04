@@ -21,7 +21,7 @@
 
 ## 👩‍💻 About Me
 
-- > 실생활 속 문제를 찾아 서비스로 풀어내는 것을 좋아하는 웹·앱 개발자입니다 👩‍💻 <br> 웹과 앱을 넘나들며 사용자가 직접 쓸 수 있는 형태로 만들어냅니다.
+- > 실생활 속 문제를 찾아 서비스로 풀어내는 것을 좋아하는 웹·앱 개발자입니다 👩‍💻 <br> 웹과 앱을 넘나들며 사용자가 만족할 만한 서비스를 제공합니다.
 - 컴퓨터공학부 컴퓨터공학전공
 - Interest: Programming, Baseball, Investing, Photography
 
@@ -35,10 +35,10 @@
 
 - 모바일 프로그래밍 시흥시 CE 공모전 ‘Mommadang’ Frontend
 - 웹 서비스 프로그래밍 시흥시 CE 공모전 'TimeFit' 팀장
-- GDGOC TUKorea 2025, 2026 Member
+- GDGoC TUKorea 2025, 2026 Member
 - 'MobileNetV2-SuperPoint Visual SLAM 파이프라인 구현' 논문 제 1저자
 - 2026년 한국게임학회 춘계학술발표대회 논문 발표
-- LG Aimers 9기 수료 중
+- LG Aimers 9기 진행 중
 
 ## 📝 Certificate
 
