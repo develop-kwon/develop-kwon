@@ -27,7 +27,7 @@
 
 ## ✍️Studying recently
 
-- html/css/javascript, React
+- Html / Css / JavaScript, React
 - MySQL, PostgreSQL
 - Python ML
 
@@ -38,7 +38,7 @@
 - GDGoC TUKorea 2025, 2026 Member
 - 'MobileNetV2-SuperPoint Visual SLAM 파이프라인 구현' 논문 제 1저자
 - 2026년 한국게임학회 춘계학술발표대회 논문 발표
-- LG Aimers 9기 진행 중
+- LG Aimers 9기 23위/1090위 으로 수료 (2026.08.05 ~ 2026.09.02)
 
 ## 📝 Certificate
 
