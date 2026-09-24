@@ -4,7 +4,9 @@
 
 ###
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=YuHyun%20Kwon&animation=twinkling&fontSize=65&fontAlignY=38&fontColor=FFFFFF)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=YuHyun%20Kwon&animation=twinkling&fontSize=65&fontAlignY=38&fontColor=FFFFFF" />
+</div>
 
 ###
 
@@ -22,14 +24,15 @@
 ## 👩‍💻 About Me
 
 - > 실생활 속 문제를 찾아 서비스로 풀어내는 것을 좋아하는 웹·앱 개발자입니다 👩‍💻 <br> 웹과 앱을 넘나들며 사용자가 만족할 만한 서비스를 제공합니다.
-- 컴퓨터공학부 컴퓨터공학전공
+- 한국공학대학교 컴퓨터공학부
 - Interest: Programming, Baseball, Investing, Photography
 
 ## ✍️Studying recently
 
-- Html / Css / JavaScript, React
-- MySQL, PostgreSQL
+- React Native, TypeScript
+- Spring Boot, PostgreSQL
 - Python ML
+- 데이터 분석 (Pandas, NumPy)
 
 ## 🎨 Activity
 
@@ -38,7 +41,7 @@
 - GDGoC TUKorea 2025, 2026 Member
 - 'MobileNetV2-SuperPoint Visual SLAM 파이프라인 구현' 논문 제 1저자
 - 2026년 한국게임학회 춘계학술발표대회 논문 발표
-- LG Aimers 9기 23위/1090위 으로 수료 (2026.08.05 ~ 2026.09.02)
+- LG Aimers 9기 23위/1090위로 수료 (2026.08.05 ~ 2026.09.02)
 
 ## 📝 Certificate
 
@@ -62,13 +65,13 @@
   <img width="8" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30" />
   <img width="8" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="30" />
+  <img width="8" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" height="30" />
   <img width="8" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="30" />
+  <img width="8" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="30" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="30" />
 </div>
 
 ###
@@ -81,22 +84,26 @@
   <img width="8" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="30" />
   <img width="8" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="30" />
+  <img width="8" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="30" />
   <img width="8" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="30" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="30" />
 </div>
 
 ###
 
 <h4 align="center">Database & Cloud</h4>
 <div align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="30" />
+  <img width="8" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" height="30" />
   <img width="8" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="30" />
   <img width="8" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" height="30" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" height="30" />
 </div>
 
 ###
@@ -104,6 +111,14 @@
 <h4 align="center">Tools</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="30" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" height="30" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" height="30" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" height="30" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Claude%20Code-191919?style=for-the-badge&logo=anthropic&logoColor=white" height="30" />
   <img width="8" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" />
 </div>
